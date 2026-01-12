@@ -1,0 +1,5 @@
+{
+  "role": "AI Engineering Intern",
+  "requirements": "Strong Python, LLMs, prompt engineering, embeddings, vector databases (Pinecone/Supabase), RAG agents, API integration, OpenAI/Groq experience",
+  "description": "Build AI agents for testing & automation workflows. Implement LLMs, embeddings, vector DBs, prompt engineering. Integrate AI models with frontend/backend. Optimize inference, run tests, improve outputs."
+}
