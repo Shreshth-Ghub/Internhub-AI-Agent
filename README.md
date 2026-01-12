@@ -202,10 +202,15 @@ With additional time, this project could be extended by introducing embedding ba
 Candidate Information
 
 Name: Shreshth Gupt
+
 Enrollment: E22CSEU0661
+
 Batch: 2022
+
 University: Bennett University
+
 Location: Faridabad, Haryana
+
 Role Applied For: AI Engineering Intern – Kadeep Technologies
 
 
