@@ -105,17 +105,26 @@ Each prompt is:
 
 internhub-ai-agent/
 ├── main.py # CLI interface
+
 ├── app.py # Flask web app
+
 ├── agent.py # Core AI agent logic
+
 ├── config.py # API configuration
+
 ├── requirements.txt # Dependencies
+
 ├── .env # API key (git ignored)
+
 ├── .gitignore
+
 ├── templates/
 │ └── index.html # Minimal web UI
+
 ├── example_inputs/
 │ ├── student_profile.json
 │ └── internship_jd.json
+
 └── README.md
 
 
@@ -188,7 +197,7 @@ This project assumes that the student profile provided accurately reflects the c
 
 With additional time, this project could be extended by introducing embedding based semantic matching to improve accuracy, integrating RAG pipelines with vector databases, and generating complete resume PDFs instead of summaries. Other potential improvements include caching responses, adding rate limiting, and incorporating a feedback loop to continuously improve recommendation quality.
 
-
+```
 
 Candidate Information
 
